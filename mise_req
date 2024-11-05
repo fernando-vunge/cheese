@@ -1,0 +1,12 @@
+libgdbm-dev
+libncurses5-dev
+libsqlite3-dev
+libtool
+libgmp-dev
+libreadline-dev
+zlib1g-dev
+libffi-dev
+libyaml-dev
+build-essential
+libssl-dev
+libreadline-dev'nzlib1g-dev
